@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #020202;
+    position: sticky;
+    font-family: 'Merriweather', serif;
+}
+
+.li-navbar {
+    float: left;
+    font-family: 'Merriweather', serif;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+}
+
+li a:hover {
+    background-color: #111;
+}
+img {
+    margin-top: 5px;
+}
+
+#ImgLogo{
+    width: 100px;
+    margin:5px;
+    margin-right: 10px;
+    float: right;
+    border-radius: 26px;
+    height: 50%;
+}
+
+.BarraBusqueda {
+    text-align: center;
+    float:right;
+	width: 20rem;
+	overflow: hidden;
+	background: #030303;
+    color: white;
+    border: none;
+    border-bottom: 3px solid white;
+    margin-left: 2rem;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    font-family: 'Merriweather', serif;
+}
+	
+.flexsearch--form {
+	overflow: hidden;
+	position: relative;
+    font-family: 'Merriweather', serif;
+}
+	
+
+.BotonBusqueda {
+    margin-top: 2.1rem;
+    text-align: center;
+    float:right;
+    width: 5rem;
+    background: #333333;
+    color: white;
+    border-color: white;
+    font-family: 'Merriweather', serif;
+}
+
+#carousel{
+    width: 90%;
+    min-width: 50%;
+    margin: auto;
+}
+
+.h1{
+    text-align: center;
+    float: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Merriweather', serif;
+        
+    
+    
+}
+
+.h2{
+    text-align: center;
+    float: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Merriweather', serif;
+
+
+
+
+}
+
+
+
+.Contenido{
+    text-align: center;
+    float: center;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Merriweather', serif;
+}
+
+.Footers{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    float: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    font-family: 'Merriweather', serif;
+}
+
+#li-footer{
+    float: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+#ul-footer{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    float: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather', serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-family: 'Merriweather', serif;
+}
